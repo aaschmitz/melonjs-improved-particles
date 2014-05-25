@@ -31,7 +31,7 @@ game.explosionManager = Object.extend({
     },
 
     launch: function(x, y) {		
-        // change the emitter position  
+        // move the emitter
         this.emitter.pos.set(x, y);
 	
 	// launch the emitter particles!
