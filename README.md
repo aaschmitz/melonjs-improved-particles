@@ -1,10 +1,12 @@
-melonJS Embedded Particles
+Improved Particles example with melonJS
 ==============
 
-Simple Particle example using embedded particle system with [melonJS](https://github.com/melonjs/melonJS).
+Improved Particles example made with [melonJS](https://github.com/melonjs/melonJS) game engine.
 
-View online at http://aaschmitz.github.io/embedded-particles/
+This example uses the built-in Particle System added since version 1.0.0 of melonJS. 
 
-See the same basic particle example but without using the melonJS embedded particle system at http://aaschmitz.github.io/simple-particles/
+View online the example [Improved Particles](http://aaschmitz.github.io/melonjs-improved-particles).
+
+See the same basic particle example but without using the melonJS buil-in particle system [Simple Particles](http://aaschmitz.github.io/melonjs-simple-particles).
 
 
